@@ -1,5 +1,36 @@
-# Markdown語法總複習
+# 1.1 標題
 
-Markdown是一種輕量級標記式語言，創始人為約翰·格魯伯。它允許人們使用易讀易寫的純文字格式編寫文件，然後轉換成有效的XHTML（或者HTML）文件。\[4]這種語言吸收了很多在電子郵件中已有的純文字標記的特性。
+Markdown支援兩種標題的語法：[Setext](https://docutils.sourceforge.io/mirror/setext.html) 和 [Atx](http://www.aaronsw.com/2002/atx/) 兩種方式。
 
-由於Markdown的輕量化、易讀易寫特性，並且對於圖片，圖表、數學式都有支援，目前許多網站都廣泛使用Markdown來撰寫說明文件或是用於論壇上發表訊息。如GitHub、Reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge、簡書等，甚至還能被用來撰寫電子書。
+(1). Setext 的方式是使用等號(=)及減號(-)來設定 H1 及 H2 這兩個階層的標題。例如：
+
+```markup
+This is H1
+==========
+
+This is H2
+----------
+```
+
+顯示效果：
+
+<figure><img src=".gitbook/assets/title-1.png" alt=""><figcaption></figcaption></figure>
+
+注意：等號及減號的數量不影響效果，可以是一個字元，也可以是多個字元。
+
+(2). Atx 的方式則是在行首加上1個到6個井號(#)來對應H1到H6。例如：
+
+```markup
+# This is H1
+## This is H2
+### This is H3
+#### This is H4
+##### This is H5
+###### This is H6
+```
+
+顯示效果：
+
+<figure><img src=".gitbook/assets/title-2.png" alt=""><figcaption></figcaption></figure>
+
+注意：你可以選擇性地在行尾加上#號，以便「關閉」atx樣式的標題，這純粹只是美觀用的，若是覺得這樣看起來比較舒適，你就可以在行尾加上#，而行尾的#數量也不用和開頭一樣（行首的井字數量決定標題的階層）。
