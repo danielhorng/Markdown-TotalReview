@@ -13,5 +13,6 @@
   * [3.1 連結](<chapter-3-qu-duan-yuan-su-span/3.1 連結.md>)
   * [3.2 強調](<chapter-3-qu-duan-yuan-su-span/3.2 強調.md>)
   * [3.3 圖片](<chapter-3-qu-duan-yuan-su-span/3.3 圖片.md>)
+  * [3.4 行內程式碼](<chapter-3-qu-duan-yuan-su-span/3.4 行內程式碼.md>)
 * [Chapter 4 相關資源](chapter-4-xiang-guan-zi-yuan/README.md)
   * [4.1 線上編輯器](chapter-4-xiang-guan-zi-yuan/4.1-xian-shang-bian-ji-qi.md)
