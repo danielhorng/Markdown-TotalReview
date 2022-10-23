@@ -6,7 +6,7 @@
   * [2.2 段落和換行](chapter-2-qu-kuai-yuan-su-block/2.2-duan-la-he-huan-hang.md)
   * [2.3 字體效果](chapter-2-qu-kuai-yuan-su-block/2.3-zi-ti-xiao-guo.md)
   * [2.4 清單](chapter-2-qu-kuai-yuan-su-block/2.3-qing-dan.md)
-  * [2.5 程式碼區塊](<chapter-2-qu-kuai-yuan-su-block/2.5 程式碼區塊.md>)
+  * [2.5 程式碼區塊](chapter-2-qu-kuai-yuan-su-block/2.5-cheng-shi-ma-qu-kuai.md)
   * [2.6 區塊引言](chapter-2-qu-kuai-yuan-su-block/2.5-qu-kuai-yin-yan.md)
 * [Chapter 3 區段元素(span)](chapter-3-qu-duan-yuan-su-span.md)
 * [Chapter 4 相關資源](chapter-4-xiang-guan-zi-yuan/README.md)
