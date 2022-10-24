@@ -11,3 +11,4 @@
 * [Chapter 3 區段元素(span)](chapter-3-qu-duan-yuan-su-span.md)
 * [Chapter 4 相關資源](chapter-4-xiang-guan-zi-yuan/README.md)
   * [4.1 線上編輯器](<chapter-4-xiang-guan-zi-yuan/4.1 線上編輯器.md>)
+  * [4.2 Markdown Extra](<chapter-4-xiang-guan-zi-yuan/4.2 Markdown Extra.md>)
