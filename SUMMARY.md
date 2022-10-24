@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Markdown語法總複習](README.md)
+* [Markdown 總複習](README.md)
 * [Chapter 2 區塊元素(block)](<Chapter 2 區塊元素(block)/README.md>)
   * [2.1 標題](<Chapter 2 區塊元素(block)/2.1 標題.md>)
   * [2.2 段落和換行](<Chapter 2 區塊元素(block)/2.2 段落和換行.md>)
