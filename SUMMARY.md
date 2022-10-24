@@ -5,6 +5,7 @@
   * [1.1 行內HTML](<Chapter 1 Markdown簡介/1.1 行內HTML.md>)
   * [1.2 特殊字元轉換](<Chapter 1 Markdown簡介/1.2 特殊字元轉換.md>)
   * [1.3 跳說字元](<Chapter 1 Markdown簡介/1.3 跳說字元.md>)
+  * [1.4 自動連結](<Chapter 1 Markdown簡介/1.4 自動連結.md>)
 * [Chapter 2 區塊元素(block)](<Chapter 2 區塊元素(block)/README.md>)
   * [2.1 段落和換行](<Chapter 2 區塊元素(block)/2.1 段落和換行.md>)
   * [2.2 標題](<Chapter 2 區塊元素(block)/2.2 標題.md>)
