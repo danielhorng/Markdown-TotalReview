@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Markdown 總複習](README.md)
+* [Chapter 1 Markdown簡介](<Chapter 1 Markdown簡介/README.md>)
+  * [1.1 行內HTML](<Chapter 1 Markdown簡介/1.1 行內HTML.md>)
+  * [1.2 特殊字元轉換](<Chapter 1 Markdown簡介/1.2 特殊字元轉換.md>)
 * [Chapter 2 區塊元素(block)](<Chapter 2 區塊元素(block)/README.md>)
   * [2.1 標題](<Chapter 2 區塊元素(block)/2.1 標題.md>)
   * [2.2 段落和換行](<Chapter 2 區塊元素(block)/2.2 段落和換行.md>)
@@ -8,6 +11,7 @@
   * [2.4 清單](<Chapter 2 區塊元素(block)/2.4 清單.md>)
   * [2.5 程式碼區塊](<Chapter 2 區塊元素(block)/2.5 程式碼區塊.md>)
   * [2.6 區塊引言](<Chapter 2 區塊元素(block)/2.6 區塊引言.md>)
+  * [2.7 分隔線](<Chapter 2 區塊元素(block)/2.7 分隔線.md>)
 * [Chapter 3 區段元素(span)](<Chapter 3 區段元素(span)/README.md>)
   * [3.1 連結](<Chapter 3 區段元素(span)/3.1 連結.md>)
   * [3.2 強調](<Chapter 3 區段元素(span)/3.2 強調.md>)
