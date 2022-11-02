@@ -76,3 +76,7 @@ Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加�
 {% hint style="warning" %}
 這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
 {% endhint %}
+
+> __Warning__  
+這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
+
