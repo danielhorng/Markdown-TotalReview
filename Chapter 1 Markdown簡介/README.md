@@ -57,10 +57,7 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
   + 空心菜
   + 高麗菜
 
-
-<font color="red">紅色字體</font>
-
-<font style="color:blue">顯而易見地，Markdown 的語法比 HTML 語法要容易閱讀及撰寫。</font>
+**顯而易見地，Markdown 的語法比 HTML 語法要容易閱讀及撰寫。**
 
 由於 Markdown 的易讀易寫特性，並且對於圖片，清單、表格都有支援，目前許多網站及各種開源系統都廣泛使用 Markdown 來撰寫說明文件或是用於論壇上發表訊息。例如： GitHub、GitBook、SourceForge...。
 
