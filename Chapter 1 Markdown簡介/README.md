@@ -73,7 +73,7 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
 
 Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加了許多的彈性，減少了許多 Markdown 的語法定義。
 
-{% hint style="warning" %}
+{% hint style="working" %}
 這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
 {% endhint %}
 
