@@ -71,23 +71,5 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
 
 ## 與 HTML 共存
 
-Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加了許多的彈性，減少了許多 Markdown 的語法定義。例如：Markdown 並沒有關於文字顏色的語法，所以我們可以直接使用 HTML 的語法。
-
-```
-+ <font color="red">水果</font>
-  + 蘋果
-  + 香蕉
-+ <font color="red">蔬菜</font>
-  + 空心菜
-  + 高麗菜
-```
-
-顯示的結果如下：
-
-+ <font color="red">水果</font>
-  + 蘋果
-  + 香蕉
-+ <font color="red">蔬菜</font>
-  + 空心菜
-  + 高麗菜
+Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加了許多的彈性，減少了許多 Markdown 的語法定義。
 
