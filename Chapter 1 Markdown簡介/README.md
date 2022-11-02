@@ -57,7 +57,7 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
   + 空心菜
   + 高麗菜
 
-<font color=orange>顯而易見地，Markdown 的語法比 HTML 語法要容易閱讀及撰寫。</font>
+<font color="orange">顯而易見地，Markdown 的語法比 HTML 語法要容易閱讀及撰寫。</font>
 
 由於 Markdown 的易讀易寫特性，並且對於圖片，清單、表格都有支援，目前許多網站及各種開源系統都廣泛使用 Markdown 來撰寫說明文件或是用於論壇上發表訊息。例如： GitHub、GitBook、SourceForge...。
 
@@ -74,20 +74,20 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
 Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加了許多的彈性，減少了許多 Markdown 的語法定義。例如：Markdown 並沒有關於文字顏色的語法，所以我們可以直接使用 HTML 的語法。
 
 ```
-+ <font color=red>水果</font>
++ <font color="red">水果</font>
   + 蘋果
   + 香蕉
-+ <font color=red>蔬菜</font>
++ <font color="red">蔬菜</font>
   + 空心菜
   + 高麗菜
 ```
 
 顯示的結果如下：
 
-+ <font color=red>水果</font>
++ <font color="red">水果</font>
   + 蘋果
   + 香蕉
-+ <font color=red>蔬菜</font>
++ <font color="red">蔬菜</font>
   + 空心菜
   + 高麗菜
 
