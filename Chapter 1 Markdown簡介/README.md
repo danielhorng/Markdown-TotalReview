@@ -1,5 +1,3 @@
-# Chapter 1 Markdown簡介
-
 Markdown 是一種輕量級標記式語言，創始人為約翰·格魯伯(John Gruber)。它允許人們使用易讀易寫的純文字格式編寫文件，然後轉換成有效的 HTML 文件。參考維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
 
 由於 Markdown 的輕量化、易讀易寫特性，並且對於圖片，圖表、數學式都有支援，目前許多網站及各種開源系統都廣泛使用 Markdown 來撰寫說明文件或是用於論壇上發表訊息。例如：README.md，其 .md 的副檔名就是代表該檔案是使用 Markdown 語法所撰寫。
