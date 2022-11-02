@@ -1,13 +1,15 @@
-## 簡介
+# Chapter 1 Markdown簡介
+
+### 簡介
 
 Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕量級標記式語法。它允許人們使用 **純文字格式** 加上 **簡單的標記符號** 來編寫文件，然後透過 **轉譯器** 來轉換成有效的 **HTML** 文件。
 
 {% hint style="info" %}
-請參考維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
+請參考維基百科中關於 [Markdown](https://zh.wikipedia.org/wiki/Markdown) 的說明。
 {% endhint %}
 
+### 簡易的範例
 
-## 簡易的範例
 我們先來看一個簡單的 Markdown 語法範例：
 
 ```
@@ -50,12 +52,12 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
 
 顯示的結果如下：
 
-+ 水果
-  + 蘋果
-  + 香蕉
-+ 蔬菜
-  + 空心菜
-  + 高麗菜
+* 水果
+  * 蘋果
+  * 香蕉
+* 蔬菜
+  * 空心菜
+  * 高麗菜
 
 **顯而易見地，Markdown 的語法比 HTML 語法要容易閱讀及撰寫。**
 
@@ -63,20 +65,19 @@ Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕�
 
 我們通常使用 .md 的副檔名來表示 Markdown 語法所撰寫的文件，例如：README.md。
 
-## 標準化
+### 標準化
 
 由於 Markdown 語法從一開始就沒有正式的規範或標準，所以隨著時間的演進，人們為了滿足本身特定的需求，在 Markdown 的基本語法之外，各自增添一些額外的語法，也各自實作了 Markdown 語法的轉譯器。
 
-你可以在 [babelMark III](<https://babelmark.github.io/>) 的網站上，輸入 Markdown 的語法，然後查看不同轉譯器所產生的 HTML 語法。
+你可以在 [babelMark III](https://babelmark.github.io/) 的網站上，輸入 Markdown 的語法，然後查看不同轉譯器所產生的 HTML 語法。
 
-## 與 HTML 共存
+### 與 HTML 共存
 
 Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加了許多的彈性，減少了許多 Markdown 的語法定義。
 
-{% hint style="working" %}
+{% hint style="danger" %}
 這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
 {% endhint %}
 
-> __Warning__  
-這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
-
+> **Warning**\
+> <mark style="color:red;">這裡要注意的是</mark>不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
