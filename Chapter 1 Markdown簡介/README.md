@@ -79,5 +79,5 @@ Markdown 允許我們在文件中插入 HTML 的語法，這樣讓我們增加�
 這裡要注意的是不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
 {% endhint %}
 
-> **Warning**\
-> <mark style="color:red;">這裡要注意的是</mark>不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
+
+這裡要<mark style="color:red;">注意的是</mark>不同的轉譯器對於 Markdown 文件中的 HTML 語法支援程度差異很大。
