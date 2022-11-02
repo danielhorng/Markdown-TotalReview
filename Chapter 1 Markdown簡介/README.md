@@ -1,17 +1,21 @@
-Markdown 是一種輕量級標記式語言，創始人為約翰·格魯伯(John Gruber)。它允許人們使用易讀易寫的純文字格式編寫文件，然後轉換成有效的 HTML 文件。參考維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
+Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕量級標記式語法。它允許人們使用 **純文字格式** 加上 **簡單的標記符號** 來編寫文件，然後透過 **轉譯器** 來轉換成有效的 HTML 文件。
 
-由於 Markdown 的輕量化、易讀易寫特性，並且對於圖片，圖表、數學式都有支援，目前許多網站及各種開源系統都廣泛使用 Markdown 來撰寫說明文件或是用於論壇上發表訊息。例如：README.md，其 .md 的副檔名就是代表該檔案是使用 Markdown 語法所撰寫。
+{% hint style="info" %}
+維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
+{% endhint %}
+
+由於 Markdown 的輕量化、易讀易寫特性，並且對於圖片，圖表都有支援，目前許多網站及各種開源系統都廣泛使用 Markdown 來撰寫說明文件或是用於論壇上發表訊息。例如：README.md，其 .md 的副檔名就是代表該檔案是使用 Markdown 語法所撰寫。
 
 Markdown 的目標是實現「易讀易寫」。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。
 
 以下為一個簡單的 Markdown 語法文章：
 
 ```
-# Markdown 文章的標題
-## Chapter 1 簡介
+# 文章的標題
+## Chapter 1 文章的簡介
 常見的 Markdown 行內語法包含 *斜體*、**粗體**、***粗斜體***。
 
-## Chapter 2 說明
+## Chapter 2 文章的說明
 以下為無序清單範例：
 + 水果
   + 蘋果
@@ -42,11 +46,11 @@ Markdown 的目標是實現「易讀易寫」。一份使用 Markdown 格式撰�
 <font color=red>當你將上列文字儲存為一個 sample.md，然後透過支援 Markdown 語法的閱讀器來閱讀時，你就會看到如下的解析後結果：</font>
 
 ***
-# Markdown 文章的標題
-## Chapter 1 簡介
+# 文章的標題
+## Chapter 1 文章的簡介
 常見的 Markdown 行內語法包含 *斜體*、**粗體**、***粗斜體***。
 
-## Chapter 2 說明
+## Chapter 2 文章的說明
 以下為無序清單範例：
 + 水果
   + 蘋果
