@@ -3,7 +3,7 @@
 Markdown 是 **約翰·格魯伯(John Gruber)** 在2004年所創建的一種輕量級標記式語法。它允許人們使用 **純文字格式** 加上 **簡單的標記符號** 來編寫文件，然後透過 **轉譯器** 來轉換成有效的 **HTML** 文件。
 
 {% hint style="info" %}
-維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
+請參考維基百科中關於 [Markdown](<https://zh.wikipedia.org/wiki/Markdown>) 的說明。
 {% endhint %}
 
 
