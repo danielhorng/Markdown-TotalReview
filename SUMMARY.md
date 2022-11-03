@@ -22,3 +22,5 @@
 * [Chapter 4 相關資源](<Chapter 4 相關資源/README.md>)
   * [4.1 線上編輯器](<Chapter 4 相關資源/4.1 線上編輯器.md>)
   * [4.2 Markdown Extra](<Chapter 4 相關資源/4.2 Markdown Extra.md>)
+  * [4.3 Emoji 字元](<Chapter 4 相關資源/4.3 Emoji 字元.md>)
+  
